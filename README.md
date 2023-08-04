@@ -10,3 +10,5 @@
 5. [5. Maximum Subarray.cpp](https://leetcode.com/problems/maximum-subarray/)
 6. [6. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 7. [7. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+8. [8. Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/)
+9. [9. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
