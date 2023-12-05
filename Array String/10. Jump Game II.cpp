@@ -4,6 +4,8 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
+        // approach 1: DP - O(n*n) time
+
         int n=nums.size();
         vector<int> dp(n, INT_MAX);
         dp[0]=0;
@@ -14,13 +16,24 @@ public:
                 dp[j+i+1]=min(dp[j+i+1], dp[i]+1);
         }
         return dp[nums.size()-1];
+
+        // approach 2: simila to part 1, just maintain farthest index, and curr fartest
+         int ans=0,curr_jump=0,farthest=0;
+        for(int i=0;i<nums.size()-1;i++){
+            farthest=max(farthest,nums[i]+i);
+            if(i==curr_jump){
+                ans++;
+                curr_jump=farthest;
+            }
+        }
+        return ans;
     }
 };
 
 
-/*
-Time complexity: O(n*n)
-Space complexity: O(n)
+/* Best
+Time complexity: O(n)
+Space complexity: O(1)
 */
 
 
