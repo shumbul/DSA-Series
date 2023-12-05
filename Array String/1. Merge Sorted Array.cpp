@@ -10,10 +10,11 @@ public:
         // sort(nums1.begin(), nums1.end());
 
         // approach 2
-        // start from end
+        // start from end      
+        // Edge cases: if any of the vector is empty  
+        if(n==0) return;
+        if(m==0) {nums1=nums2; return;}
         int i=m-1, j=n-1;
-        if(i<0) {nums1=nums2; return;}
-        if(j<0) return;
         for(int k=nums1.size()-1;k>=0;k--){
             // cout<<i<<' '<<j<<k<<' '<<'\n';
             if(i<0){
@@ -39,3 +40,5 @@ Space Complexities:
 Approach 1 - O(1)
 Approach 2 - O(1)
 */
+
+// Code by Shumbul Arifa - https://linktr.ee/shumbul 
