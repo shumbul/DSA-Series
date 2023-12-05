@@ -39,3 +39,9 @@
 3. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 4. [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
 5. [Majority Element](https://leetcode.com/problems/majority-element/)
+
+6. [Rotate Array](https://leetcode.com/problems/rotate-array)
+7. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+8. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+9. [Jump Game](https://leetcode.com/problems/jump-game)
+10. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
