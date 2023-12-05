@@ -1,6 +1,6 @@
 # DSA-Series
 
-## 1. Arrays & Vectors
+## Arrays & Vectors
 
 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 2. [2 Sum](https://leetcode.com/problems/two-sum/)
@@ -24,3 +24,10 @@
 4. [Container with most water](https://leetcode.com/problems/container-with-most-water)
 
 5. [3 Sum](https://leetcode.com/problems/3sum)
+
+
+## Sliding Window
+
+1. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)
+
+2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
