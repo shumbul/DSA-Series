@@ -32,6 +32,15 @@
 
 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 
+
+## Matrix
+
+1. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)
+
+2. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes)
+
+3. [Rotate Image](https://leetcode.com/problems/rotate-image)
+
 # Array & Strings
 
 1. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
@@ -45,3 +54,5 @@
 8. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 9. [Jump Game](https://leetcode.com/problems/jump-game)
 10. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+
+
