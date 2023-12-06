@@ -41,6 +41,10 @@
 
 3. [Rotate Image](https://leetcode.com/problems/rotate-image)
 
+4. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
+
+5. [Game of Life](https://leetcode.com/problems/game-of-life)
+
 # Array & Strings
 
 1. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
