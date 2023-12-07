@@ -68,3 +68,4 @@
 5. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
 
 6. [Triangle](https://leetcode.com/problems/triangle/)
+7. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
