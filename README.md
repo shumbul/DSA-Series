@@ -65,4 +65,13 @@
 9. [Jump Game](https://leetcode.com/problems/jump-game)
 10. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
+# DP
 
+1. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+2. [House Robber](https://leetcode.com/problems/house-robber/)
+3. [Coin Change](https://leetcode.com/problems/coin-change)
+4. [Word Break](https://leetcode.com/problems/word-break)
+5. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
+
+6. [Triangle](https://leetcode.com/problems/triangle/)
+7. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
