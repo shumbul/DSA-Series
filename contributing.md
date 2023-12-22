@@ -4,13 +4,11 @@ Welcome to the 21 Days DSA Challenge repository! We encourage and appreciate con
 
 ## Getting Started
 
-1. Fork the repository to your GitHub account.
-
-2. Clone the forked repository to your local machine:
+1. Clone the repository to your local machine:
    ```bash
-   https://github.com/shumbul/21-Days-DSA-Challenge.git
+   git clone https://github.com/shumbul/21-Days-DSA-Challenge.git
 
-3. Create a new branch for your contributions:
+2. Create a new branch for your contributions:
   ```bash
    git checkout -b feature/day-X-language
    
